@@ -53,7 +53,7 @@
         "sizes": "89-63-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "FR",
         "birthday": "September 28, 1934",
-        "index": "0,1", "language":
+        "language":
         {
             "RU": { "title": "Брижит Бардо" }
         }
@@ -93,7 +93,7 @@
         "sizes": "81-61-84", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
         "birthday": "June 26, 1993",
-        "index": "0,1", "language":
+        "language":
         {
             "RU": { "title": "Ариана Гранде" }
         }
