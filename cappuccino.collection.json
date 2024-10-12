@@ -4,6 +4,7 @@
         "title": "Dutch East India Company",
         "language":
         {
+            "CH": "Imperialismo Europeene",
             "RU": "Голландская Ост-Индская компания",
             "JP": "オランダ東インド会社",
             "KR": "네덜란드 동인도 회사",
@@ -16,6 +17,7 @@
         "title": "Meiji Restoration in Japan",
         "language":
         {
+            "CH": "Imperialismo Giapponese",
             "RU": "Реставрация Мэйдзи в Японии",
             "JP": "日本における明治天皇の維新",
             "KR": "일본의 메이지 유신",
@@ -28,6 +30,7 @@
         "title": "Le Coup d'État du [french]",
         "language":
         {
+            "CH": "Imperialismo Bonapartisme",
             "RU": "[french] Луи Бонапарта",
             "JP": "クーデター [french]",
             "KR": "대히트 [french]",
