@@ -30,8 +30,7 @@
         "sizes": "81-61-87", "nsfw": "true",
         "shoe_size": 8.5, "country": "GB",
         "birthday": "August 12, 1992",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Кара Делевинь" }
         }
     },
@@ -48,26 +47,21 @@
         "sizes": "89-63-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "FR",
         "birthday": "September 28, 1934",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Брижит Бардо" }
         }
     },
-    "Parisian Wedding":
-    {
-        "insignia": "Casual", "nsfw": "true",
-        "country": "FR", "language":
-        {
-            "RU": { "title": "Свадьба в Париже" }
-        }
-    },
-    "Boudoir":
+    "Couture Boudoir":
     {
         "insignia": "Lady", "nsfw": "true",
         "maison": "https://www.coutureboudoir.com",
-        "country": "FR", "language":
-        {
-            "RU": { "title": "Дамская комната" }
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
         }
     },
     "1896 Summer Olympics":
@@ -75,7 +69,13 @@
         "setting": "La Belle Époque",
         "country": "GR", "maison": "https://olympics.com",
         "insignia": "OlympicGames",
-        "memoir": "'The important thing in the Olympic Games is not to win, but to take part; the important thing in Life is not triumph, but the struggle; the essential thing is not to have conquered but to have fought well.' - Pierre de Coubertin."
+        "memoir": "The important thing in the Olympic Games is not to win, but to take part; the important thing in Life is not triumph, but the struggle; the essential thing is not to have conquered but to have fought well. - Pierre de Coubertin.",
+        "language": {
+            "RU": {
+                "title": "Летние Олимпийские игры 1896 года",
+                "memoir": "В Олимпийских играх главное не победа, а участие; в жизни главное не триумф, а борьба; главное не победить, а хорошо сражаться. - Пьер де Кубертен."
+            }
+        }
     },
     "Ariana Grande":
     {
@@ -83,8 +83,7 @@
         "sizes": "81-61-84", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
         "birthday": "June 26, 1993",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Ариана Гранде" }
         }
     },
@@ -94,8 +93,7 @@
         "country": "FR", "insignia": "NotreDame",
         "maison": "https://www.notredamedeparis.fr",
         "memoir": "Au IVe siècle, avec l’avènement de Clovis, Paris devient capitale chrétienne du royaume des francs. C’est alors qu’une première cathédrale Saint-Etienne est bâtie au VIe siècle. L’essor de la ville débute au XIIe siècle après les invasions normandes. Quatre papes y séjournent au cours du siècle. La ville prospère, elle est un lieu d’échanges artistiques et intellectuels, dotée de collèges et d’une université de philosophie et théologie. C’est ainsi que débute l’histoire de Notre Dame.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Собор Парижской Богоматери",
                 "memoir": "В IV веке, с приходом к власти Хлодвига, Париж стал христианской столицей Франкского королевства. Именно тогда в VI веке был построен первый собор Сент-Этьена. Рост города начался в 12 веке после вторжения норманнов. В течение столетия здесь останавливались четыре папы. Город процветает, это место художественного и интеллектуального обмена, с колледжами и университетом философии и теологии. Так начинается история Нотр-Дама."
@@ -107,14 +105,26 @@
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Louvre",
         "maison": "https://www.louvre.fr",
-        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV."
+        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV.",
+        "language": {
+            "RU": {
+                "title": "Лувр",
+                "memoir": "Лувр, некогда королевский дворец, является свидетелем восьми веков французской истории. С момента своего основания в 1793 году музей был задуман как универсальный. Его коллекции, одни из лучших в мире, охватывают несколько тысяч лет и территорию, простирающуюся от Америки до границ Азии. Лувр начинался как крепость с толстыми оборонительными стенами, построенная в 1190 году во время правления Филиппа Огюста. Он стал королевской резиденцией в 1364 году и на протяжении веков менялся в соответствии с меняющимися стилями и королевскими предпочтениями. Большая галерея была построена между 1595 и 1610 годами во время правления Генриха IV."
+            }
+        }
     },
     "1889 Exposition Universelle":
     {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
-        "memoir": "The 1889 Exposition Universelle received millions of visitors. Amongst them, 1,953,122 came to see the Eiffel Tower, in other words almost 12,000 a day! The Tower was met with immediate success. From the very first week, though the lifts were not yet in service (they would be from the 26th May), almost 30,000 visitors climbed the monument using the staircase, that is to say 1,710 steps to the top! At the time, the Eiffel Tower was the tallest tower in the world and people from all countries went to the heart of the French Capital to admire this architectural masterpiece."
+        "memoir": "The 1889 Exposition Universelle received millions of visitors. Amongst them, 1,953,122 came to see the Eiffel Tower, in other words almost 12,000 a day! The Tower was met with immediate success. From the very first week, though the lifts were not yet in service (they would be from the 26th May), almost 30,000 visitors climbed the monument using the staircase, that is to say 1,710 steps to the top! At the time, the Eiffel Tower was the tallest tower in the world and people from all countries went to the heart of the French Capital to admire this architectural masterpiece.",
+        "language": {
+            "RU": {
+                "title": "Всемирная выставка 1889 года",
+                "memoir": "Всемирная выставка 1889 года посетили миллионы людей. Среди них 1 953 122 человека пришли посмотреть на Эйфелеву башню, другими словами, почти 12 000 человек в день! Башню ждал немедленный успех. С первой же недели, хотя лифты еще не были запущены (они заработают с 26 мая), почти 30 000 посетителей поднялись на памятник по лестнице, то есть по 1710 ступеням наверх! В то время Эйфелева башня была самой высокой башней в мире, и люди со всех стран приезжали в самое сердце французской столицы, чтобы полюбоваться этим архитектурным шедевром."
+            }
+        }
     },
     "Turgot map of Paris":
     {
@@ -133,10 +143,8 @@
         "setting": "La Belle Époque",
         "country": "NL", "insignia": "DutchEastIndia",
         "memoir": "Dutch East India Company, trading company founded in the Dutch Republic (present-day Netherlands) in 1602 to protect that state’s trade in the Indian Ocean and to assist in the Dutch war of independence from Spain. The company prospered through most of the 17th century as the instrument of the powerful Dutch commercial empire in the East Indies (present-day Indonesia). It was dissolved in 1799.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Голландская Ост-Индская компания",
                 "memoir": "Голландская Ост-Индская компания, торговая компания, основанная в Голландской Республике (современные Нидерланды) в 1602 году для защиты торговли этого государства в Индийском океане и для оказания помощи в войне за независимость Нидерландов от Испании. Компания процветала большую часть XVII века как инструмент могущественной голландской торговой империи в Ост-Индии (современная Индонезия). Она была распущена в 1799 году."
             }
@@ -183,8 +191,7 @@
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "FleurDeLis",
         "memoir": "The French Revolution had general causes common to all the revolutions of the West at the end of the 18th century and particular causes that explain why it was by far the most violent and the most universally significant of these revolutions. The first of the general causes was the social structure of the West. The feudal regime had been weakened step-by-step and had already disappeared in parts of Europe. The increasingly numerous and prosperous elite of wealthy commoners-merchants, manufacturers, and professionals, often called the bourgeoisie-aspired to political power in those countries where it did not already possess it. The peasants, many of whom owned land, had attained an improved standard of living and education and wanted to get rid of the last vestiges of feudalism so as to acquire the full rights of landowners and to be free to increase their holdings.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Великая Французская Революция",
                 "memoir": "Французская революция имела общие причины, общие для всех революций Запада в конце XVIII века, и частные причины, которые объясняют, почему она была самой жестокой и самой универсально значимой из этих революций. Первой из общих причин была социальная структура Запада. Феодальный режим ослабевал шаг за шагом и уже исчез в некоторых частях Европы. Все более многочисленная и процветающая элита богатых простолюдинов - торговцев, производителей и профессионалов, часто называемая буржуазией, - стремилась к политической власти в тех странах, где она ею еще не обладала. Крестьяне, многие из которых владели землей, достигли более высокого уровня жизни и образования и хотели избавиться от последних остатков феодализма, чтобы обрести полные права землевладельцев и иметь возможность свободно увеличивать свои владения."
@@ -196,10 +203,8 @@
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Palace",
         "memoir": "The Haussmann style of architecture, which is also known as Haussmannian, is the architecture that has defined modern-day Paris. In the 19th century, Baron Georges-Eugène Haussmann, a Parisian official with no architectural background, revamped the city at the request of Emperor Napoleon III. Haussmann assumed the role, Prefect of the Seine Department, and managed this vast project, which became known as the “Haussmann Renovation of Paris.” This comprehensive urban renewal program spanned from 1853 to 1870, with the construction continuing through 1927.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Архитектура барона Османа",
                 "memoir": "Архитектурный стиль Османа, также известный как османский стиль, является архитектурой, которая определила современный Париж. В 19 веке барон Жорж-Эжен Осман, парижский чиновник без архитектурного образования, реконструировал город по просьбе императора Наполеона III. Осман взял на себя роль префекта департамента Сены и руководил этим обширным проектом, который стал известен как «Османовская реконструкция Парижа». Эта комплексная программа обновления города охватывала период с 1853 по 1870 год, а строительство продолжалось до 1927 года."
             }
@@ -210,8 +215,7 @@
         "setting": "La Belle Époque",
         "country": "JP", "insignia": "HandFan",
         "memoir": "The restoration event itself consisted of a coup d’état in the ancient imperial capital of Kyōto on January 3, 1868. The perpetrators announced the ouster of Tokugawa Yoshinobu (the last shogun) - who by late 1867 was no longer effectively in power—and proclaimed the young Meiji emperor to be ruler of Japan. Yoshinobu mounted a brief civil war that ended with his surrender to imperial forces in June 1869.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Реставрация Мэйдзи в Японии",
                 "memoir": "Само событие реставрации состояло из государственного переворота в древней императорской столице Киото 3 января 1868 года. Виновные объявили об отстранении Токугавы Ёсинобу (последнего сёгуна), который к концу 1867 года уже фактически не находился у власти, и провозгласили молодого императора Мэйдзи правителем Японии. Ёсинобу развязал короткую гражданскую войну, которая закончилась его капитуляцией перед императорскими войсками в июне 1869 года."
@@ -223,8 +227,7 @@
         "setting": "La Belle Époque",
         "country": "BE", "insignia": "Bird",
         "memoir": "Sixty years ago on Tuesday, Belgium staged the opening of the 1958 world fair, a glittering 200-day celebration of postwar social, cultural and technological advances. It is said to retain an “important place in the collective memory of the Belgian nation”. A series of events are being held in the Atomium, the futuristic landmark built for the spectacle, in recognition. Yet as the Belgian capital indulges in nostalgia, one exhibit staged at the time is not being revisited: a live display of black men, women and children in “native conditions” laid on for the education and amusement of white Europeans. It was the world’s last “human zoo”.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Человеческий зоопарк Бельгии",
                 "memoir": "Шестьдесят лет назад во вторник Бельгия организовала открытие всемирной выставки 1958 года, блестящее 200-дневное празднование послевоенных социальных, культурных и технологических достижений. Говорят, что оно сохраняет «важное место в коллективной памяти бельгийской нации». В знак признания проводится ряд мероприятий в Атомиуме, футуристической достопримечательности, построенной для этого зрелища. Однако, пока бельгийская столица предается ностальгии, одна выставка, организованная в то время, не возвращается: живая экспозиция чернокожих мужчин, женщин и детей в «родных условиях», устроенная для обучения и развлечения белых европейцев. Это был последний в мире «человеческий зоопарк»."
@@ -236,8 +239,7 @@
         "setting": "La Belle Époque",
         "country": "CN", "insignia": "Marijuana",
         "memoir": "Opium Wars, two armed conflicts in China in the mid-19th century between the forces of Western countries and of the Qing dynasty, which ruled China from 1644 to 1911/12. The first Opium War (1839–42) was fought between China and Britain, and the second Opium War (1856–60), also known as the Arrow War or the Anglo-French War in China, was fought by Britain and France against China. In each case the foreign powers were victorious and gained commercial privileges and legal and territorial concessions in China. The conflicts marked the start of the era of unequal treaties and other inroads on Qing sovereignty that helped weaken and ultimately topple the dynasty in favour of republican China in the early 20th century. Contributing to the start of the Opium Wars was the failed British trade mission of 1792-93 known as the Macartney Embassy.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Опиумные войны в Китае",
                 "memoir": "Опиумные войны, два вооруженных конфликта в Китае в середине 19 века между силами западных стран и династии Цин, которая правила Китаем с 1644 по 1911/12 год. Первая опиумная война (1839–1842) велась между Китаем и Великобританией, а вторая опиумная война (1856–1860), также известная как Война стрел или англо-французская война в Китае, велась Великобританией и Францией против Китая. В каждом случае иностранные державы одерживали победу и получали торговые привилегии, а также юридические и территориальные уступки в Китае. Конфликты ознаменовали начало эпохи неравноправных договоров и других посягательств на суверенитет Цин, которые помогли ослабить и в конечном итоге свергнуть династию в пользу республиканского Китая в начале 20 века. Началу опиумных войн способствовала провалившаяся британская торговая миссия 1792–1793 годов, известная как посольство Макартни."
@@ -249,8 +251,7 @@
         "setting": "La Belle Époque",
         "country": "RS", "insignia": "Knight",
         "memoir": "The assassination of Archduke Franz Ferdinand was one of the key events that led to World War I. Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated on 28 June 1914 by Bosnian Serb student Gavrilo Princip. They were shot at close range while being driven through Sarajevo, the provincial capital of Bosnia-Herzegovina, formally annexed by Austria-Hungary in 1908.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Сараевское убийство",
                 "memoir": "Сараевское убийство — убийство 28 июня 1914 года эрцгерцога Франца Фердинанда, наследника австро-венгерского престола, и его жены герцогини Софии Гогенберг в Сараеве сербским гимназистом Гаврилой Принципом, входившим в группу из шести террористов, координировавшихся Данилой Иличем."
@@ -262,8 +263,7 @@
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Liberty",
         "memoir": "In 1865, a French political intellectual and anti-slavery activist named Edouard de Laboulaye proposed that a statue representing liberty be built for the United States. This monument would honor the United States' centennial of independence and the friendship with France. French sculptor Auguste Bartholdi supported de Laboulaye's idea and in 1870 began designing the statue of \"Liberty Enlightening the World.\" While Bartholdi was designing the Statue, he also took a trip to the United States in 1871. During the trip, Bartholdi selected Bedloe's Island as the site for the Statue. Although the island was small, it was visible to every ship entering New York Harbor, which Bartholdi viewed as the \"gateway to America.\"",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Статуя Свободы в Париже",
                 "memoir": "В 1865 году французский политический интеллектуал и активист движения против рабства Эдуард де Лабуле предложил построить статую, олицетворяющую свободу, для Соединенных Штатов. Этот памятник должен был отмечать столетие независимости Соединенных Штатов и дружбу с Францией. Французский скульптор Огюст Бартольди поддержал идею де Лабуле и в 1870 году начал проектировать статую «Свобода, озаряющая мир». Пока Бартольди проектировал статую, он также совершил поездку в Соединенные Штаты в 1871 году. Во время поездки Бартольди выбрал остров Бедлоу в качестве места для статуи. Хотя остров был небольшим, он был виден каждому судну, заходящему в гавань Нью-Йорка, которую Бартольди считал «воротами в Америку»."
@@ -275,8 +275,7 @@
         "setting": "La Belle Époque",
         "country": "US", "insignia": "Pistol",
         "memoir": "Bonnie Elizabeth Parker and Clyde Chestnut \"Champion\" Barrow were American bandits who traveled the Central United States with their gang during the Great Depression. The couple was known for their bank robberies and multiple murders, although they preferred to rob small stores or rural funeral homes. Their exploits captured the attention of the American press and its readership during what is occasionally referred to as the \"public enemy era\" between 1931 and 1934. They were ambushed by police and shot to death in Bienville Parish, Louisiana. They are believed to have murdered at least nine police officers and four civilians.",
-        "language":
-        {
+        "language": {
             "RU": {
                 "title": "Бонни и Клайд",
                 "memoir": "Бо́нни Элизабет Паркер и Клайд Чеснат Бэрроу — американские грабители, действовавшие во времена Великой депрессии. В разное время в их банду входили: Бак Бэрроу, старший брат Клайда; Бланш Бэрроу, жена Бака; Рэймонд Гамильтон, В. Д. Джонс, Джо Палмер, Ральф . И, хотя сейчас они известны по примерно двенадцати ограблениям банков, Бэрроу предпочитал грабить небольшие магазинчики, парикмахерские и заправки. Считается, что по вине банды погибло по крайней мере девять полицейских и несколько гражданских лиц. Сами Бонни и Клайд были убиты 23 мая 1934 года техасскими рейнджерами и полицейскими из штата Луизиана."
@@ -288,10 +287,8 @@
         "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
         "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Кафе-культура Европы",
                 "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
             }
