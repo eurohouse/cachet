@@ -34,6 +34,16 @@
             "RU": { "title": "Кара Делевинь" }
         }
     },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
     "Musée d'Orsay":
     {
         "setting": "La Belle Époque",
