@@ -1,4 +1,67 @@
 {
+    "Barbara Palvin":
+    {
+        "height": 1.75, "weight": 58,
+        "sizes": "85-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "HU",
+        "birthday": "October 8, 1993",
+        "language": {
+            "RU": { "title": "Барбара Палвин" }
+        }
+    },
+    "Cara Delevingne":
+    {
+        "height": 1.73, "weight": 51,
+        "sizes": "81-61-87", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 12, 1992",
+        "language": {
+            "RU": { "title": "Кара Делевинь" }
+        }
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language": {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
+    "Couture Boudoir":
+    {
+        "insignia": "Lady", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "June 26, 1993",
+        "language": {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
     "RMS Titanic":
     {
         "setting": "La Belle Époque",
@@ -24,55 +87,12 @@
         "maison": "https://www.toureiffel.paris",
         "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
     },
-    "Cara Delevingne":
-    {
-        "height": 1.73, "weight": 51,
-        "sizes": "81-61-87", "nsfw": "true",
-        "shoe_size": 8.5, "country": "GB",
-        "birthday": "August 12, 1992",
-        "language": {
-            "RU": { "title": "Кара Делевинь" }
-        }
-    },
-    "Audrey Hepburn":
-    {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
-        "language": {
-            "RU": { "title": "Одри Хепберн" }
-        }
-    },
     "Musée d'Orsay":
     {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Clock",
         "maison": "https://www.musee-orsay.fr",
         "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition."
-    },
-    "Brigitte Bardot":
-    {
-        "height": 1.66, "weight": 57,
-        "sizes": "89-63-89", "nsfw": "true",
-        "shoe_size": 7.5, "country": "FR",
-        "birthday": "September 28, 1934",
-        "language": {
-            "RU": { "title": "Брижит Бардо" }
-        }
-    },
-    "Couture Boudoir":
-    {
-        "insignia": "Lady", "nsfw": "true",
-        "maison": "https://www.coutureboudoir.com",
-        "country": "FR",
-        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
-        "language": {
-            "RU": {
-                "title": "Дамская комната",
-                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
-            }
-        }
     },
     "1896 Summer Olympics":
     {
@@ -85,16 +105,6 @@
                 "title": "Летние Олимпийские игры 1896 года",
                 "memoir": "В Олимпийских играх главное не победа, а участие; в жизни главное не триумф, а борьба; главное не победить, а хорошо сражаться. - Пьер де Кубертен."
             }
-        }
-    },
-    "Ariana Grande":
-    {
-        "height": 1.55, "weight": 44,
-        "sizes": "81-61-84", "nsfw": "true",
-        "shoe_size": 7.5, "country": "US",
-        "birthday": "June 26, 1993",
-        "language": {
-            "RU": { "title": "Ариана Гранде" }
         }
     },
     "Notre-Dame de Paris":
