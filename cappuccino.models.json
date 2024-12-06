@@ -85,7 +85,15 @@
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
-        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
+        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Эйфелева башня",
+                "memoir": "Ставка заключалась в том, чтобы «изучить возможность возведения железной башни на Марсовом поле с квадратным основанием, 125 метров в поперечнике и 300 метров в высоту». Из 107 отобранных проектов был принят проект Гюстава Эйфеля, предпринимателя, Мориса Кёхлена и Эмиля Нугье, инженеров, и Стефана Совестра, архитектора. Эмиль Нугье и Морис Кёхлен, два главных инженера в компании Эйфеля, в июне 1884 года выдвинули идею очень высокой башни. Она должна была быть спроектирована как большой пилон с четырьмя колоннами решетчатых балок, разделенных у основания и соединенных наверху, и соединенных друг с другом большим количеством металлических балок на регулярных интервалах."
+            }
+        }
     },
     "Musée d'Orsay":
     {
