@@ -3,6 +3,8 @@
         "title": "Dutch East India Company",
         "language": {
             "CH": "Imperialismo Europeene",
+            "GR": "Ολλανδική Εταιρεία Ανατολικής Ινδίας",
+            "CY": "Ολλανδική Εταιρεία Ανατολικής Ινδίας",
             "RU": "Голландская Ост-Индская компания",
             "UA": "Голландська Ост-Індська компанія",
             "BY": "Галандская Ост-Індская кампанія",
@@ -21,6 +23,8 @@
         "title": "Meiji Restoration in Japan",
         "language": {
             "CH": "Imperialismo Giapponese",
+            "GR": "Αποκατάσταση στην Ιαπωνία",
+            "CY": "Αποκατάσταση στην Ιαπωνία",
             "RU": "Реставрация Мэйдзи в Японии",
             "UA": "Реставрація Мейдзі в Японії",
             "BY": "Рэстаўрацыя Мэйдзі ў Японіі",
@@ -36,7 +40,7 @@
         }
     },
     "002": {
-        "title": "Le Coup d'État du [french]",
+        "title": "Le [french] du [title]",
         "language": {
             "CH": "Imperialismo Bonapartisme",
             "GR": "[french] [title]",
@@ -44,15 +48,15 @@
             "RU": "[french] [title]",
             "UA": "[french] [title]",
             "BY": "[french] [title]",
-            "JP": "クーデター [french]",
-            "KR": "대히트 [french]",
-            "CN": "政变 [french]",
-            "AE": "قاعدة شاذة [french]",
-            "SA": "قاعدة شاذة [french]",
-            "IQ": "قاعدة شاذة [french]",
-            "IR": "قاعدة شاذة [french]",
-            "KW": "قاعدة شاذة [french]",
-            "QA": "قاعدة شاذة [french]"
+            "JP": "[title]の[french]日",
+            "KR": "[title] [french]일",
+            "CN": "[title]巴的[french]日",
+            "AE": "[french] في عهد [title] الثامن",
+            "SA": "[french] في عهد [title] الثامن",
+            "IQ": "[french] في عهد [title] الثامن",
+            "IR": "[french] في عهد [title] الثامن",
+            "KW": "[french] في عهد [title] الثامن",
+            "QA": "[french] في عهد [title] الثامن"
         }
     }
 }
