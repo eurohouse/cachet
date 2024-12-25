@@ -45,9 +45,8 @@
         }
     },
     "Couture Boudoir": {
-        "insignia": "Lady", "nsfw": "true",
+        "insignia": "Lady", "nsfw": "true", "country": "FR",
         "maison": "https://www.coutureboudoir.com",
-        "country": "FR",
         "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
         "language": {
             "RU": {
