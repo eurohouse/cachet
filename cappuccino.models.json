@@ -1,6 +1,5 @@
 {
-    "Barbara Palvin":
-    {
+    "Barbara Palvin": {
         "height": 1.75, "weight": 58,
         "sizes": "85-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "HU",
@@ -9,8 +8,7 @@
             "RU": { "title": "Барбара Палвин" }
         }
     },
-    "Cara Delevingne":
-    {
+    "Cara Delevingne": {
         "height": 1.73, "weight": 51,
         "sizes": "81-61-87", "nsfw": "true",
         "shoe_size": 8.5, "country": "GB",
@@ -19,8 +17,7 @@
             "RU": { "title": "Кара Делевинь" }
         }
     },
-    "Brigitte Bardot":
-    {
+    "Brigitte Bardot": {
         "height": 1.66, "weight": 57,
         "sizes": "89-63-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "FR",
@@ -29,8 +26,25 @@
             "RU": { "title": "Брижит Бардо" }
         }
     },
-    "Couture Boudoir":
-    {
+    "Ariana Grande": {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "June 26, 1993",
+        "language": {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Couture Boudoir": {
         "insignia": "Lady", "nsfw": "true",
         "maison": "https://www.coutureboudoir.com",
         "country": "FR",
@@ -42,68 +56,64 @@
             }
         }
     },
-    "Ariana Grande":
-    {
-        "height": 1.55, "weight": 44,
-        "sizes": "81-61-84", "nsfw": "true",
-        "shoe_size": 6, "country": "US",
-        "birthday": "June 26, 1993",
-        "language": {
-            "RU": { "title": "Ариана Гранде" }
-        }
-    },
-    "Audrey Hepburn":
-    {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
-        "language": {
-            "RU": { "title": "Одри Хепберн" }
-        }
-    },
-    "RMS Titanic":
-    {
+    "RMS Titanic": {
         "setting": "La Belle Époque",
         "country": "GB", "insignia": "Compass",
-        "memoir": "RMS Titanic was a British ocean liner that sank on 15 April 1912 after striking an iceberg on the ship's maiden voyage from Southampton, England to New York City, United States. Titanic, operated by the White Star Line, was carrying passengers and mail. Of the estimated 2,224 passengers and crew aboard, approximately 1,500 died, making the incident the deadliest sinking of a single ship at the time. Titanic carried some of the wealthiest people in the world, as well as hundreds of emigrants from the British Isles, Scandinavia, and elsewhere in Europe who were seeking a new life in the United States and Canada. The disaster drew public attention, spurred major changes in maritime safety regulations, and inspired a lasting legacy in popular culture."
+        "memoir": "RMS Titanic was a British ocean liner that sank on 15 April 1912 after striking an iceberg on the ship's maiden voyage from Southampton, England to New York City, United States. Titanic, operated by the White Star Line, was carrying passengers and mail. Of the estimated 2,224 passengers and crew aboard, approximately 1,500 died, making the incident the deadliest sinking of a single ship at the time. Titanic carried some of the wealthiest people in the world, as well as hundreds of emigrants from the British Isles, Scandinavia, and elsewhere in Europe who were seeking a new life in the United States and Canada. The disaster drew public attention, spurred major changes in maritime safety regulations, and inspired a lasting legacy in popular culture.",
+        "language": {
+            "RU": {
+                "title": "Крушение «Титаника»",
+                "memoir": "RMS Titanic был британским океанским лайнером, затонувшим 15 апреля 1912 года после столкновения с айсбергом во время своего первого рейса из Саутгемптона, Англия, в Нью-Йорк, США. «Титаник», которым управляла компания White Star Line, перевозил пассажиров и почту. Из предполагаемых 2224 пассажиров и членов экипажа на борту погибло около 1500 человек, что сделало инцидент самым смертоносным затоплением одного судна на тот момент. «Титаник» перевозил некоторых из самых богатых людей в мире, а также сотни эмигрантов с Британских островов, Скандинавии и других стран Европы, которые искали новую жизнь в Соединенных Штатах и ​​Канаде. Катастрофа привлекла внимание общественности, подстегнула серьезные изменения в правилах безопасности на море и вдохновила на длительное наследие в популярной культуре."
+            }
+        }
     },
-    "Borki train disaster":
-    {
+    "Borki train disaster": {
         "setting": "La Belle Époque",
         "country": "RU", "insignia": "Russia",
-        "memoir": "The Borki train disaster occurred on October 29, 1888 (N.S.), near Borki station in the former Kharkov Governorate of the Russian Empire (present-day Birky, Chuhuiv Raion, Kharkiv Oblast, Ukraine), 295 kilometers south of Kursk, when the imperial train carrying Tsar Alexander III of Russia and his family from Crimea to Saint Petersburg derailed at high speed. Twenty-one people died at the scene and two later, and many others were injured. According to the official version of events, Alexander held the collapsed roof of the royal car on his shoulders while his family escaped the crash site uninjured. The story of the miraculous escape became part of contemporary lore and government propaganda. The investigation into the crash, led by Anatoly Koni, resulted in the appointment of railway manager and future Prime Minister of the Russian Empire Sergei Witte as the Director of State Railways."
+        "memoir": "The Borki train disaster occurred on October 29, 1888 (N.S.), near Borki station in the former Kharkov Governorate of the Russian Empire (present-day Birky, Chuhuiv Raion, Kharkiv Oblast, Ukraine), 295 kilometers south of Kursk, when the imperial train carrying Tsar Alexander III of Russia and his family from Crimea to Saint Petersburg derailed at high speed. Twenty-one people died at the scene and two later, and many others were injured. According to the official version of events, Alexander held the collapsed roof of the royal car on his shoulders while his family escaped the crash site uninjured. The story of the miraculous escape became part of contemporary lore and government propaganda. The investigation into the crash, led by Anatoly Koni, resulted in the appointment of railway manager and future Prime Minister of the Russian Empire Sergei Witte as the Director of State Railways.",
+        "language": {
+            "RU": {
+                "title": "Крушение императорского поезда",
+                "memoir": "Катастрофа поезда «Борки» произошла 29 октября 1888 года (по новому стилю) недалеко от станции Борки в бывшей Харьковской губернии Российской империи (ныне Бирки, Чугуевский район, Харьковская область, Украина), в 295 километрах к югу от Курска, когда императорский поезд, перевозивший царя Александра III и его семью из Крыма в Санкт-Петербург, сошел с рельсов на большой скорости. На месте погибло двадцать один человек, а позже двое, и многие другие получили ранения. Согласно официальной версии событий, Александр держал на плечах рухнувшую крышу царского вагона, в то время как его семья покинула место крушения невредимой. История чудесного спасения стала частью современных преданий и правительственной пропаганды. Расследование крушения, возглавляемое Анатолием Кони, привело к назначению управляющего железной дорогой и будущего премьер-министра Российской империи Сергея Витте директором государственных железных дорог."
+            }
+        }
     },
-    "British Royal Train":
-    {
+    "British Royal Train": {
         "setting": "La Belle Époque",
         "country": "GB", "insignia": "OrientExpress",
-        "memoir": "The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned, maintained and operated by DB Cargo UK. The Royal Train comprises a dedicated set of claret liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. They are arranged according to requirements, and stored when not in use. The earliest royal coaches date back to the mid-19th century in the reign of Queen Victoria; until an upgrade in 1977 there were multiple sets based in different regions, a legacy of the pre-nationalisation era of railways in Britain. Many are now in museums or on heritage railways; the National Railway Museum in York has a royal themed exhibition."
+        "memoir": "The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned, maintained and operated by DB Cargo UK. The Royal Train comprises a dedicated set of claret liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. They are arranged according to requirements, and stored when not in use. The earliest royal coaches date back to the mid-19th century in the reign of Queen Victoria; until an upgrade in 1977 there were multiple sets based in different regions, a legacy of the pre-nationalisation era of railways in Britain. Many are now in museums or on heritage railways; the National Railway Museum in York has a royal themed exhibition.",
+        "language": {
+            "RU": {
+                "title": "Британский королевский поезд",
+                "memoir": "British Royal Train используется для перевозки старших членов британской королевской семьи и связанного с ними персонала королевского двора по железнодорожной сети Великобритании. Он принадлежит, обслуживается и эксплуатируется компанией DB Cargo UK. Royal Train состоит из специального набора спальных вагонов, обеденных и гостиных вагонов бордового цвета. Текущий подвижной состав датируется 1977-1987 годами. Они организованы в соответствии с требованиями и хранятся, когда не используются. Самые ранние королевские вагоны датируются серединой 19 века во времена правления королевы Виктории; до модернизации в 1977 году существовало несколько наборов, базирующихся в разных регионах, наследие эпохи донационализации железных дорог в Британии. Многие из них сейчас находятся в музеях или на исторических железных дорогах; в Национальном железнодорожном музее в Йорке есть королевская тематическая экспозиция."
+            }
+        }
     },
-    "Eiffel Tower":
-    {
+    "Eiffel Tower": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
         "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Эйфелева башня",
                 "memoir": "Ставка заключалась в том, чтобы «изучить возможность возведения железной башни на Марсовом поле с квадратным основанием, 125 метров в поперечнике и 300 метров в высоту». Из 107 отобранных проектов был принят проект Гюстава Эйфеля, предпринимателя, Мориса Кёхлена и Эмиля Нугье, инженеров, и Стефана Совестра, архитектора. Эмиль Нугье и Морис Кёхлен, два главных инженера в компании Эйфеля, в июне 1884 года выдвинули идею очень высокой башни. Она должна была быть спроектирована как большой пилон с четырьмя колоннами решетчатых балок, разделенных у основания и соединенных наверху, и соединенных друг с другом большим количеством металлических балок на регулярных интервалах."
             }
         }
     },
-    "Musée d'Orsay":
-    {
+    "Musée d'Orsay": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Clock",
         "maison": "https://www.musee-orsay.fr",
-        "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition."
+        "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition.",
+        "language": {
+            "RU": {
+                "title": "Музей Орсе",
+                "memoir": "Построенный на руинах оригинального Дворца Орсе, Музей Орсе сначала был станцией, а затем музеем (оригинальный Дворец был построен в 1810 году, а затем сгорел в 1871 году во время Парижской коммуны). Именно великому французскому архитектору того времени Виктору Лалу и двум другим архитекторам было поручено разработать проекты конечной станции Compagnie du Chemin de fer d'Orleans. Целью станции было приветствовать посетителей из страны и из-за рубежа на Всемирной выставке 1900 года."
+            }
+        }
     },
-    "1896 Summer Olympics":
-    {
+    "1896 Summer Olympics": {
         "setting": "La Belle Époque",
         "country": "GR", "maison": "https://olympics.com",
         "insignia": "OlympicGames",
@@ -115,8 +125,7 @@
             }
         }
     },
-    "Notre-Dame de Paris":
-    {
+    "Notre-Dame de Paris": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "NotreDame",
         "maison": "https://www.notredamedeparis.fr",
@@ -128,8 +137,7 @@
             }
         }
     },
-    "The musée du Louvre":
-    {
+    "The musée du Louvre": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Louvre",
         "maison": "https://www.louvre.fr",
@@ -141,8 +149,7 @@
             }
         }
     },
-    "1889 Exposition Universelle":
-    {
+    "1889 Exposition Universelle": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "EiffelTower",
         "maison": "https://www.toureiffel.paris",
@@ -154,20 +161,29 @@
             }
         }
     },
-    "Turgot map of Paris":
-    {
+    "Turgot map of Paris": {
         "setting": "La Belle Époque",
         "country": "FR", "insignia": "Mason",
-        "memoir": "The Turgot map was published in 1739 as an atlas of twenty non-overlapping sectional bird's-eye-view maps (at a scale of approximately 1:400) in isometric perspective toward the southeast. Additionally, there is one simplified general map with a four-by-five grid showing the layout of the twenty sectional maps. The atlas covers an area approximately corresponding to the first eleven of the modern-day arrondissements of Paris. Each sectional map consists of double-facing sheets and is 80 cm wide; the first row is 48 cm high, while the remaining rows are 50 cm high. The assembled map is 250.5 cm in height and 322.5 cm in width. Turgot's map has been described as \"the first all-comprising graphical inventory of the capital, down to the last orchard and tree, detailing every house and naming even the most modest cul-de-sac\"."
+        "memoir": "The Turgot map was published in 1739 as an atlas of twenty non-overlapping sectional bird's-eye-view maps (at a scale of approximately 1:400) in isometric perspective toward the southeast. Additionally, there is one simplified general map with a four-by-five grid showing the layout of the twenty sectional maps. The atlas covers an area approximately corresponding to the first eleven of the modern-day arrondissements of Paris. Each sectional map consists of double-facing sheets and is 80 cm wide; the first row is 48 cm high, while the remaining rows are 50 cm high. The assembled map is 250.5 cm in height and 322.5 cm in width. Turgot's map has been described as \"the first all-comprising graphical inventory of the capital, down to the last orchard and tree, detailing every house and naming even the most modest cul-de-sac\".",
+        "language": {
+            "RU": {
+                "title": "План Тюрго",
+                "memoir": "Карта Тюрго была опубликована в 1739 году как атлас из двадцати неперекрывающихся секционных карт с высоты птичьего полета (в масштабе примерно 1:400) в изометрической перспективе по направлению к юго-востоку. Кроме того, есть одна упрощенная общая карта с сеткой четыре на пять, показывающая расположение двадцати секционных карт. Атлас охватывает территорию, приблизительно соответствующую первым одиннадцати современным округам Парижа. Каждая секционная карта состоит из двухсторонних листов и имеет ширину 80 см; первый ряд имеет высоту 48 см, а остальные ряды - 50 см. Собранная карта имеет высоту 250,5 см и ширину 322,5 см. Карта Тюрго была описана как «первая всеобъемлющая графическая опись столицы, вплоть до последнего сада и дерева, детализирующая каждый дом и называющая даже самые скромные тупики»."
+            }
+        }
     },
-    "Ptolemy's world map":
-    {
+    "Ptolemy's world map": {
         "setting": "La Belle Époque",
         "country": "GR", "insignia": "Mason",
-        "memoir": "The continents are given as Europe, Asia, and Libya (Africa). The World Ocean is only seen to the west. The map distinguishes two large enclosed seas: the Mediterranean and the Indian (Indicum Pelagus). Due to Marinus and Ptolemy's mistaken measure of the circumference of the earth, the former is made to extend much too far in terms of degrees of arc; due to their reliance on Hipparchus, they mistakenly enclose the latter with an eastern and southern shore of unknown lands, which prevents the map from identifying the western coast of the World Ocean."
+        "memoir": "The continents are given as Europe, Asia, and Libya (Africa). The World Ocean is only seen to the west. The map distinguishes two large enclosed seas: the Mediterranean and the Indian (Indicum Pelagus). Due to Marinus and Ptolemy's mistaken measure of the circumference of the earth, the former is made to extend much too far in terms of degrees of arc; due to their reliance on Hipparchus, they mistakenly enclose the latter with an eastern and southern shore of unknown lands, which prevents the map from identifying the western coast of the World Ocean.",
+        "language": {
+            "RU": {
+                "title": "Карта Птолемея",
+                "memoir": "Континенты указаны как Европа, Азия и Ливия (Африка). Мировой океан виден только на западе. На карте различаются два больших замкнутых моря: Средиземное и Индийское (Indicum Pelagus). Из-за ошибочного измерения окружности Земли Марином и Птолемеем, первое простирается слишком далеко в градусах дуги; из-за их зависимости от Гиппарха, они ошибочно окружают последнее восточным и южным берегом неизвестных земель, что не позволяет карте идентифицировать западное побережье Мирового океана."
+            }
+        }
     },
-    "Dutch East India Company":
-    {
+    "Dutch East India Company": {
         "setting": "La Belle Époque",
         "country": "NL", "insignia": "DutchEastIndia",
         "memoir": "Dutch East India Company, trading company founded in the Dutch Republic (present-day Netherlands) in 1602 to protect that state’s trade in the Indian Ocean and to assist in the Dutch war of independence from Spain. The company prospered through most of the 17th century as the instrument of the powerful Dutch commercial empire in the East Indies (present-day Indonesia). It was dissolved in 1799.",
@@ -178,14 +194,18 @@
             }
         }
     },
-    "Dutch intervention in Bali":
-    {
+    "Dutch intervention in Bali (1906)": {
         "setting": "La Belle Époque",
         "country": "NL", "insignia": "DutchEastIndia",
-        "memoir": "The Dutch conquest of South Bali in 1906 was a Dutch military intervention in Bali as part of the Dutch colonial conquest of the Indonesian islands, killing an estimated 1,000 people. It was part of the final takeover of the Netherlands East-Indies. The campaign led to the deaths of the Balinese rulers of Badung and Tabanan kingdoms, their wives and children and followers. This conquest weakened the remaining independent kingdoms of Klungkung and Bangli, leading to their invasion two years later. It was the sixth Dutch military intervention in Bali."
+        "memoir": "The Dutch conquest of South Bali in 1906 was a Dutch military intervention in Bali as part of the Dutch colonial conquest of the Indonesian islands, killing an estimated 1,000 people. It was part of the final takeover of the Netherlands East-Indies. The campaign led to the deaths of the Balinese rulers of Badung and Tabanan kingdoms, their wives and children and followers. This conquest weakened the remaining independent kingdoms of Klungkung and Bangli, leading to their invasion two years later. It was the sixth Dutch military intervention in Bali.",
+        "language": {
+            "RU": {
+                "title": "Голландское вторжение на Бали (1906)",
+                "memoir": "Голландское завоевание Южного Бали в 1906 году было голландской военной интервенцией на Бали в рамках голландского колониального завоевания индонезийских островов, в результате которого погибло около 1000 человек. Это было частью окончательного захвата Нидерландской Ост-Индии. Кампания привела к гибели балийских правителей королевств Бадунг и Табанан, их жен, детей и последователей. Это завоевание ослабило оставшиеся независимые королевства Клунгкунг и Бангли, что привело к их вторжению два года спустя. Это было шестое голландское военное вмешательство на Бали."
+            }
+        }
     },
-    "Voyages of Christopher Columbus":
-    {
+    "Voyages of Christopher Columbus": {
         "setting": "La Belle Époque",
         "country": "ES", "insignia": "Compass",
         "memoir": "Between 1492 and 1504, the Italian navigator and explorer Christopher Columbus led four transatlantic maritime expeditions in the name of the Catholic Monarchs of Spain to the Caribbean and to Central and South America. These voyages led to the widespread knowledge of the New World. This breakthrough inaugurated the period known as the Age of Discovery, which saw the colonization of the Americas, a related biological exchange, and trans-Atlantic trade. These events, the effects and consequences of which persist to the present, are often cited as the beginning of the modern era.",
@@ -196,29 +216,49 @@
             }
         }
     },
-    "Boston Tea Party":
-    {
+    "Boston Tea Party": {
         "setting": "La Belle Époque",
         "country": "US", "insignia": "Teapot",
-        "memoir": "The Boston Tea Party was an American political and mercantile protest on December 16, 1773, by the Sons of Liberty in Boston in colonial Massachusetts. The target was the Tea Act of May 10, 1773, which allowed the British East India Company to sell tea from China in American colonies without paying taxes apart from those imposed by the Townshend Acts. The Sons of Liberty strongly opposed the taxes in the Townshend Act as a violation of their rights. In response, the Sons of Liberty, some disguised as Native Americans, destroyed an entire shipment of tea sent by the East India Company."
+        "memoir": "The Boston Tea Party was an American political and mercantile protest on December 16, 1773, by the Sons of Liberty in Boston in colonial Massachusetts. The target was the Tea Act of May 10, 1773, which allowed the British East India Company to sell tea from China in American colonies without paying taxes apart from those imposed by the Townshend Acts. The Sons of Liberty strongly opposed the taxes in the Townshend Act as a violation of their rights. In response, the Sons of Liberty, some disguised as Native Americans, destroyed an entire shipment of tea sent by the East India Company.",
+        "language": {
+            "RU": {
+                "title": "Бостонское чаепитие",
+                "memoir": "Бостонское чаепитие было американским политическим и торговым протестом 16 декабря 1773 года, организованным Сынами Свободы в Бостоне в колониальном Массачусетсе. Целью был Закон о чае от 10 мая 1773 года, который позволял Британской Ост-Индской компании продавать чай из Китая в американских колониях без уплаты налогов, помимо тех, которые были установлены Законом Тауншенда. Сыны Свободы решительно выступили против налогов, установленных Законом Тауншенда, как нарушения их прав. В ответ Сыны Свободы, некоторые из которых были замаскированы под коренных американцев, уничтожили целую партию чая, отправленную Ост-Индской компанией."
+            }
+        }
     },
-    "Declaration of Independence":
-    {
+    "Declaration of Independence": {
         "setting": "La Belle Époque",
         "country": "US", "insignia": "Liberty",
-        "memoir": "The Declaration of Independence, formally titled The unanimous Declaration of the thirteen united States of America (in the engrossed version but not the original printing), is the founding document of the United States. On July 4, 1776, it was adopted unanimously by the 56 delegates to the Second Continental Congress, who had convened at the Pennsylvania State House, later renamed Independence Hall, in the colonial era capital of Philadelphia. The declaration explains to the world why the Thirteen Colonies regarded themselves as independent sovereign states no longer subject to British colonial rule."
+        "memoir": "The Declaration of Independence, formally titled The unanimous Declaration of the thirteen united States of America (in the engrossed version but not the original printing), is the founding document of the United States. On July 4, 1776, it was adopted unanimously by the 56 delegates to the Second Continental Congress, who had convened at the Pennsylvania State House, later renamed Independence Hall, in the colonial era capital of Philadelphia. The declaration explains to the world why the Thirteen Colonies regarded themselves as independent sovereign states no longer subject to British colonial rule.",
+        "language": {
+            "RU": {
+                "title": "Декларация независимости США",
+                "memoir": "Декларация независимости, официально именуемая Единогласной декларацией тринадцати соединенных штатов Америки (в англоязычной версии, но не в оригинальной печати), является учредительным документом Соединенных Штатов. 4 июля 1776 года она была единогласно принята 56 делегатами Второго континентального конгресса, собравшимися в здании Палаты представителей Пенсильвании, позднее переименованном в Зал независимости, в столице колониальной эпохи Филадельфии. Декларация объясняет миру, почему Тринадцать колоний считали себя независимыми суверенными государствами, больше не подчиняющимися британскому колониальному правлению."
+            }
+        }
     },
-    "American Revolutionary War":
-    {
+    "American Revolutionary War": {
         "setting": "La Belle Époque",
         "country": "US", "insignia": "Knight",
-        "memoir": "The American Revolutionary War (April 19, 1775 – September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. During the war, American Patriot forces had the support of France and Spain, while the British and Loyalist forces hired Hessian soldiers from Germany for assistance. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war ended with the Treaty of Paris in 1783, which resulted in Great Britain ultimately recognizing the independence and sovereignty of the United States."
+        "memoir": "The American Revolutionary War (April 19, 1775 – September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. During the war, American Patriot forces had the support of France and Spain, while the British and Loyalist forces hired Hessian soldiers from Germany for assistance. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war ended with the Treaty of Paris in 1783, which resulted in Great Britain ultimately recognizing the independence and sovereignty of the United States.",
+        "language": {
+            "RU": {
+                "title": "Война за независимость США",
+                "memoir": "Американская война за независимость (19 апреля 1775 г. — 3 сентября 1783 г.), также известная как Война за независимость или Американская война за независимость, была военным конфликтом, который был частью более широкой Американской революции, где силы американских патриотов, организованные как Континентальная армия и под командованием Джорджа Вашингтона, победили британскую армию. Во время войны силы американских патриотов пользовались поддержкой Франции и Испании, в то время как британские и лоялистские силы нанимали гессенских солдат из Германии для оказания помощи. Конфликт происходил в Северной Америке, на Карибах и в Атлантическом океане. Война закончилась Парижским договором в 1783 году, в результате которого Великобритания в конечном итоге признала независимость и суверенитет Соединенных Штатов."
+            }
+        }
     },
-    "Burning of Washington":
-    {
+    "Burning of Washington": {
         "setting": "La Belle Époque",
         "country": "US", "insignia": "Palace",
-        "memoir": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear-Admiral George Cockburn during Admiral Sir John Warren's Chesapeake campaign. It was the only time since the American Revolutionary War that a foreign power had captured and occupied a United States capital. Following the defeat of American forces at the Battle of Bladensburg on August 24, 1814, a British army led by Major-General Robert Ross marched on Washington, D.C. That evening, British soldiers and sailors set fire to multiple public buildings; including the Presidential Mansion, United States Capitol, and Washington Navy Yard."
+        "memoir": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear-Admiral George Cockburn during Admiral Sir John Warren's Chesapeake campaign. It was the only time since the American Revolutionary War that a foreign power had captured and occupied a United States capital. Following the defeat of American forces at the Battle of Bladensburg on August 24, 1814, a British army led by Major-General Robert Ross marched on Washington, D.C. That evening, British soldiers and sailors set fire to multiple public buildings; including the Presidential Mansion, United States Capitol, and Washington Navy Yard.",
+        "language": {
+            "RU": {
+                "title": "Сожжение Вашингтона",
+                "memoir": "Сожжение Вашингтона, также известное как Захват Вашингтона, было успешной британской десантной атакой, проведенной контр-адмиралом Джорджем Кокберном во время Чесапикской кампании адмирала сэра Джона Уоррена. Это был единственный случай со времен Войны за независимость США, когда иностранная держава захватила и оккупировала столицу Соединенных Штатов. После поражения американских войск в битве при Блейденсбурге 24 августа 1814 года британская армия под командованием генерал-майора Роберта Росса двинулась на Вашингтон, округ Колумбия. Тем вечером британские солдаты и моряки подожгли несколько общественных зданий, включая Президентский особняк, Капитолий Соединенных Штатов и Вашингтонскую военно-морскую верфь."
+            }
+        }
     },
     "French Revolution":
     {
