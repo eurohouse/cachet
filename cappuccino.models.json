@@ -26,6 +26,15 @@
             "RU": { "title": "Брижит Бардо" }
         }
     },
+    "Angelina Jolie": {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language": {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
     "Ariana Grande": {
         "height": 1.55, "weight": 44,
         "sizes": "81-61-84", "nsfw": "true",
