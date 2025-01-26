@@ -1,4 +1,15 @@
 {
+    "Couture Boudoir": {
+        "insignia": "Lady", "nsfw": "true", "country": "FR",
+        "maison": "https://www.coutureboudoir.com",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
     "Barbara Palvin": {
         "height": 1.75, "weight": 58,
         "sizes": "85-59-89", "nsfw": "true",
@@ -51,17 +62,6 @@
         "birthday": "May 4, 1929",
         "language": {
             "RU": { "title": "Одри Хепберн" }
-        }
-    },
-    "Couture Boudoir": {
-        "insignia": "Lady", "nsfw": "true", "country": "FR",
-        "maison": "https://www.coutureboudoir.com",
-        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
-        "language": {
-            "RU": {
-                "title": "Дамская комната",
-                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
-            }
         }
     },
     "RMS Titanic": {
@@ -337,6 +337,16 @@
             "RU": {
                 "title": "Сараевское убийство",
                 "memoir": "Сараевское убийство — убийство 28 июня 1914 года эрцгерцога Франца Фердинанда, наследника австро-венгерского престола, и его жены герцогини Софии Гогенберг в Сараеве сербским гимназистом Гаврилой Принципом, входившим в группу из шести террористов, координировавшихся Данилой Иличем."
+            }
+        }
+    },
+    "GIVENCHY L'Interdit": {
+        "country": "FR", "insignia": "Givenchy",
+        "maison": "https://www.givenchy.com",
+        "memoir": "'His are the only clothes in which I am myself. He is far more than a couturier, he is a creator of personality' - Audrey Hepburn.",
+        "language": {
+            "RU": {
+                "memoir": "Единственное, что я надеваю на ночь, это капелька Chanel № 5. - Мэрилин Монро."
             }
         }
     },
