@@ -343,10 +343,10 @@
     "GIVENCHY L'Interdit": {
         "country": "FR", "insignia": "Givenchy",
         "maison": "https://www.givenchy.com",
-        "memoir": "'His are the only clothes in which I am myself. He is far more than a couturier, he is a creator of personality' - Audrey Hepburn.",
+        "memoir": "His are the only clothes in which I am myself. He is far more than a couturier, he is a creator of personality. - Audrey Hepburn.",
         "language": {
             "RU": {
-                "memoir": "Единственное, что я надеваю на ночь, это капелька Chanel № 5. - Мэрилин Монро."
+                "memoir": "Живанши не просто одевал меня. Он помог мне стать той, кем я мечтала быть. - Одри Хепберн."
             }
         }
     },
